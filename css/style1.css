@@ -1,0 +1,83 @@
+@media screen and (max-width: 480px) {
+  .nav,
+  span {
+    display: block;
+  }
+  .navlist li {
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    padding: 0;
+  }
+  h1 {
+    font-size: 25px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  .container {
+    display: block;
+    width: 100%;
+    padding: 20;
+    margin: 0;
+  }
+
+  .con {
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  img {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .container-img {
+    width: 100%;
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+
+  .i1,
+  .i2,
+  .in1,
+  .in2,
+  .in,
+  .img-wrap,
+  .text-wrap,
+  .leftbg {
+    width: 100%;
+  }
+  #container3,
+  .left-wrap,
+  .right-wrap,
+  .left-img,
+  .right-img,
+  #footer {
+    display: block;
+    width: 100%;
+  }
+
+  .box {
+    padding: 25px 0;
+  }
+  h6 {
+    font-size: 15px;
+  }
+  .signup {
+    display: flex;
+    margin: 0;
+    padding: 10px 0;
+  }
+
+  #footer ul li {
+    font-size: 10px;
+  }
+  .signup,
+  input,
+  button,
+  footer {
+    font-size: 10px;
+    margin: 0;
+  }
+}
