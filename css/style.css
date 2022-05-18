@@ -1,0 +1,220 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+.bg {
+  background-image: url("../images/car4.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+h2 {
+  font-family: "Russo One", sans-serif;
+  font-size: 22px;
+}
+button {
+  background-color: rgb(28, 127, 214);
+  border: none;
+  padding: 5px;
+  font-size: 18px;
+  color: white;
+}
+.hero {
+  text-align: center;
+  width: 55%;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+ul li:hover {
+  font-size: 22px;
+  cursor: pointer;
+}
+.left,
+.center,
+.right {
+  display: flex;
+}
+.navlist li {
+  display: inline;
+  font-size: 20px;
+  padding: 10px;
+}
+.logo {
+  width: 35%;
+  max-height: 50px;
+}
+.container {
+  display: flex;
+  width: 65%;
+  margin: 0 auto;
+}
+img,
+.icons {
+  width: 100%;
+  margin: 0 auto;
+}
+.con {
+  width: 20%;
+  padding: 40px;
+  margin: 20px;
+  font-size: 10px;
+}
+.con:hover {
+  cursor: pointer;
+  background-color: rgb(28, 127, 214);
+}
+h3 {
+  font-size: 30px;
+  padding: 20px;
+}
+.heder1 {
+  color: rgb(28, 127, 214);
+  margin: 10px 300px;
+}
+a {
+  color: rgb(28, 127, 214);
+  text-decoration: none;
+}
+.mark {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+.container-img {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+.one .three {
+  display: flex;
+  justify-content: space-between;
+}
+.left-img {
+  width: 35%;
+  display: block;
+}
+.right-img {
+  width: 65%;
+  display: block;
+}
+.two {
+  display: block;
+}
+.in2 {
+  vertical-align: top;
+  width: 49%;
+  display: inline-block;
+  height: 40%;
+  padding: 10px;
+}
+.in {
+  width: 100%;
+  padding: 10px;
+}
+.in1 {
+  min-height: 300px;
+  padding: 10px;
+}
+#container3 {
+  display: flex;
+  background-color: rgb(218, 221, 224);
+}
+.img-wrap,
+.text-wrap,
+.left-wrap,
+.right-wrap {
+  width: 50%;
+}
+.left-wrap,
+.right-wrap {
+  width: 49%;
+  display: inline-block;
+  padding: 0px 30px;
+}
+p {
+  font-size: 12px;
+  color: gray;
+  padding: 10px;
+}
+.text-wrap {
+  padding: 10px;
+}
+.icons1 {
+  width: 40%;
+  padding: 15px;
+  margin: 0 auto;
+}
+h5 {
+  font-size: 15px;
+  text-align: center;
+  color: rgb(56, 54, 54);
+}
+h4 {
+  font-size: 25px;
+  text-align: center;
+  color: rgb(56, 54, 54);
+}
+.leftbg {
+  height: 100%;
+}
+.text-wrap {
+  padding: 35px;
+}
+#footer {
+  background-color: rgb(12, 34, 83);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 35px;
+}
+#footer ul li {
+  font-size: 16px;
+  list-style: none;
+  padding: 5px;
+}
+h6 {
+  font-size: 25px;
+}
+.svg-f {
+  width: 80%;
+  margin: 0 auto;
+  padding: 15px;
+}
+footer {
+  background-color: rgb(12, 34, 83);
+  color: white;
+  padding: 40px 25px;
+}
+hr {
+  margin-bottom: 20px;
+}
+input {
+  padding: 5px;
+  color: gray;
+  font-size: 16px;
+}
+.signup {
+  padding: 5px;
+}
+.mark1{
+  display: inline-block;
+  margin:0 10px ;
+}
